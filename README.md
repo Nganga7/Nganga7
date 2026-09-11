@@ -47,7 +47,7 @@ through a **Looker Studio** dashboard.
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/ng-ang-a-njongo-25779872/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ng-ang-a-njongo-25779872/)
 - Email: nganganjongo7@gmail.com
 
 ---
